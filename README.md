@@ -11,8 +11,7 @@ Tecnologías
 Python · pandas · NumPy · SciPy · scikit-learn · OpenCV · PyQt5 · MySQL · JavaScript · HTML · Git
 
 Proyectos destacados
-Visor de Imágenes y Señales Médicas: app de escritorio con MVC para DICOM, señales .mat, CSV y conteo de células.
-Contacto
+Visor de Imágenes y Señales Médicas
 
 dumarl64@gmail.com
 dumar.lodono@udea.edu.co
