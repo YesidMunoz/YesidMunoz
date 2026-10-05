@@ -1,16 +1,18 @@
-## Hi there 👋
+Hola, soy Dumar 
 
-<!--
-**YesidMunoz/YesidMunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Biomédica en la Universidad de Antioquia y aprendiz de Análisis y Desarrollo de Software en el SENA. Me interesa aplicar la programación, los datos y la inteligencia artificial a problemas de salud.
 
-Here are some ideas to get you started:
+En qué trabajo
+Procesamiento de imágenes médicas (DICOM, NIfTI) y señales biomédicas
+Análisis de datos clínicos y modelos de machine learning
+Aplicaciones de escritorio y web en Python
+Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · pandas · NumPy · SciPy · scikit-learn · OpenCV · PyQt5 · MySQL · JavaScript · HTML · Git
+
+Proyectos destacados
+Visor de Imágenes y Señales Médicas: app de escritorio con MVC para DICOM, señales .mat, CSV y conteo de células.
+Contacto
+
+dumarl64@gmail.com
+dumar.lodono@udea.edu.co
